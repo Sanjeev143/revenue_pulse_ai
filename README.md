@@ -28,4 +28,5 @@ Implementing robust sidebar and mobile drawer navigation with active state manag
 Rendering complex data tables, progress metrics, and distribution charts.
 
 Drop a comment below if you want the GitHub repository link or have any questions about Flutter layout constraints!
+Amazevalley : https://www.youtube.com/@Amazevalley
 # revenue_pulse_ai
